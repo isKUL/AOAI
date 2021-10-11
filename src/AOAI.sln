@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOAI", "AOAI\AOAI.csproj", "{8A85A0B8-BB13-4CF3-A798-25DCF54B8969}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AOAI_installer_x64", "AOAI_installer_x64\AOAI_installer_x64.vdproj", "{6B7E1EBB-7B11-4C4C-BE69-7BC445626D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A85A0B8-BB13-4CF3-A798-25DCF54B8969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A85A0B8-BB13-4CF3-A798-25DCF54B8969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A85A0B8-BB13-4CF3-A798-25DCF54B8969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A85A0B8-BB13-4CF3-A798-25DCF54B8969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B7E1EBB-7B11-4C4C-BE69-7BC445626D39}.Debug|Any CPU.ActiveCfg = Debug
+		{6B7E1EBB-7B11-4C4C-BE69-7BC445626D39}.Debug|Any CPU.Build.0 = Debug
+		{6B7E1EBB-7B11-4C4C-BE69-7BC445626D39}.Release|Any CPU.ActiveCfg = Release
+		{6B7E1EBB-7B11-4C4C-BE69-7BC445626D39}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7DB34AA-0A96-4D8E-A0F3-CC435EBA07E8}
+	EndGlobalSection
+EndGlobal
