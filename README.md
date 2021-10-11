@@ -18,9 +18,13 @@ The add-on uses VSTO (COM) technology to integrating with MS Outlook
 
 The list of trusted domain names is analyzed. The configuration of processing incoming and outgoing emails is analyzed. Events for receiving emails or viewing emails are enabled. If the domain of the sender of the email message is not included in the trusted domain, then the message is marked with a colored category that the email is external.
 
+![marking](https://github.com/isKUL/AOAI/blob/main/_img/marking.png?raw=true)
+
 - Notification module when sending emails.
 
 The list of trusted domain names is analyzed. The configuration of notification processing is analyzed. Events are included for the analysis of emails when sending. If the outgoing email contains an addressee who is not a member of the trusted domain, then an information window is displayed to the user. In the information window, you can set the required warning - remind about the company's policy and polite communication with external contractors, remind users about trade secrets and the prohibition of the transfer of classified information, etc.
+
+![notification](https://github.com/isKUL/AOAI/blob/main/_img/notification.png?raw=true)
 	
 # Configuration modes
 
